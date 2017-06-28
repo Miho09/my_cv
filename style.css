@@ -1,0 +1,12 @@
+body{
+  background-color: skyblue;
+}
+
+
+.header {
+  color: white;
+}
+
+#header-name {
+  border: solid grey 5px;
+}
